@@ -9,7 +9,7 @@
         "requestType": "GET",
         "url": "https://api.hubapi.com/cms/v3/blogs/posts",
         "authentication": {
-          "bearerToken": "${{Hubspot Access Token}}"
+          "bearerToken": "${{Hubspot_Access_Token}}"
         },
         "paginationControl": {
           "cursorPagination": {
