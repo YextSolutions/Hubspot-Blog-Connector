@@ -134,5 +134,14 @@
       "header": "url",
       "subfieldPath": []
     }
-  ]
+  ],
+  "scheduleConfig": {
+    "customSchedule": {
+      "timeZone": "America/New_York",
+      "startDate": "2021-09-14",
+      "startTime": "00:00",
+      "frequencyType": "DAILY"
+    },
+    "runMode": "DEFAULT"
+  }
 }
