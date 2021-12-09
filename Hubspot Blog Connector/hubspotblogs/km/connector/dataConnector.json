@@ -1,7 +1,7 @@
 {
   "$id": "hubspotblogs_dataConnector",
   "$schema": "https://schema.yext.com/config/km/connector/v2",
-  "displayName": "Hubspot CMS (blog)",
+  "displayName": "Hubspot Blog Data Connector",
   "entityType": "helpArticle",
   "source": {
     "sourceConfig": {
