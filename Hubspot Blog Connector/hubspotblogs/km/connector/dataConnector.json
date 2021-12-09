@@ -92,7 +92,7 @@
       "subfieldPath": []
     },
     {
-      "field": "hubspot_featuredImage",
+      "field": "hubspotblogs_featuredImage",
       "header": "featuredImage",
       "subfieldPath": [
         {
@@ -106,7 +106,7 @@
       "subfieldPath": []
     },
     {
-      "field": "hubspot_authorName",
+      "field": "hubspotblogs_authorName",
       "header": "authorName",
       "subfieldPath": []
     },
