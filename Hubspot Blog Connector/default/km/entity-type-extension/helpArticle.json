@@ -5,11 +5,11 @@
   "entityType": "helpArticle",
   "field": [
     {
-      "id": "hubspot_authorName",
+      "id": "hubspotblogs_authorName",
       "required": false
     },
     {
-      "id": "hubspot_featuredImage",
+      "id": "hubspotblogs_featuredImage",
       "required": false
     }
   ]

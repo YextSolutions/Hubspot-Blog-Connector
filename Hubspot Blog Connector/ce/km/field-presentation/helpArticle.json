@@ -33,7 +33,7 @@
           "id": "shortDescription"
         },
         {
-          "id": "hubspot_featuredImage"
+          "id": "hubspotblogs_featuredImage"
         }
       ]
     },
@@ -57,7 +57,7 @@
           "id": "promoted"
         },
         {
-          "id": "hubspot_authorName"
+          "id": "hubspotblogs_authorName"
         }
       ]
     },
