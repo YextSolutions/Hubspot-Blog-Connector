@@ -1,5 +1,5 @@
 {
-  "$id": "hubspotblogs_helpArticle",
+  "$id": "ce_helpArticle",
   "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
   "entityType": "helpArticle",
   "displayName": "Help Article",
