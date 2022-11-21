@@ -9,7 +9,7 @@
         "source": "hubspot",
         "operation": "fetchBlogPosts",
         "inputs": {
-          "hubspotLinkedAccount": "hubspot.adrienne"
+          "hubspotLinkedAccount": "${{hubspotLinkedAccount}}"
         }
       }
     },
